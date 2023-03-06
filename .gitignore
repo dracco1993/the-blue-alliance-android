@@ -6,6 +6,8 @@
 # Keys
 *.jks
 
+android/jacoco.exec
+
 # Local Properties
 android/src/main/assets/tba.properties
 
